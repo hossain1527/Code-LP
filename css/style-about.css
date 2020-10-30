@@ -1,0 +1,60 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap"); */
+
+.containersf {
+  margin-left: 100px;
+  margin-top: 200px;
+}
+
+/**********************All Text*****************************/
+
+h2 {
+  color: white;
+  font-size: 25px;
+  font-family: "Syne Mono", monospace;
+}
+
+p {
+  color: black;
+  font-weight: bold;
+}
+
+#title {
+  color: teal;
+  font-size: 28px;
+  font-family: "Caveat Brush", cursive;
+}
+
+/******************Social Media icon design*******************/
+
+#social-media a {
+  width: 100px;
+  height: 45px;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+#linkd {
+  color: #0e76a8;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+#fb {
+  color: #3b5998;
+  text-decoration: none;
+  font-size: 25px;
+  align-items: center;
+}
+
+#twt {
+  color: #00acee;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+#insta {
+  color: #3f729b;
+  text-decoration: none;
+  font-size: 25px;
+}
